@@ -1,5 +1,9 @@
-
 body {
+  color: #212121;
+  font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.02em;
   background: #ceeef0;
   font-size: 16px;
 }
